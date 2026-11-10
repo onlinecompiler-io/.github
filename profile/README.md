@@ -1,6 +1,6 @@
 # OnlineCompiler.io
 
-[OnlineCompiler.io](https://onlinecompiler.io/?utm_source=github&utm_medium=repo&utm_campaign=org-profile) is a code execution API. You send source code and a compiler id, and get the output back from a fresh sandbox with no network, 512 MB of memory and a 30 second limit. It runs 46 languages, can judge a program against test cases, and is also available as an MCP server, a WebSocket, an embeddable editor, and Judge0-, Piston- and Jobe-compatible endpoints.
+[OnlineCompiler.io](https://onlinecompiler.io/?utm_source=github&utm_medium=repo&utm_campaign=org-profile) is a code execution API. You send source code and a compiler id, and get the output back from a fresh sandbox with no network, 512 MB of memory by default (up to 2 GB on the Pro and Business plans) and a 30 second limit. It runs 46 languages, can judge a program against test cases, and is also available as an MCP server, a WebSocket, an embeddable editor, and Judge0-, Piston- and Jobe-compatible endpoints.
 
 Free up to 100,000 runs a month, commercial use included, no credit card. Get a key at https://api.onlinecompiler.io/compilers/api-keys/ .
 
